@@ -9,7 +9,7 @@
 <body>
 
 
-<h1>FORMULARIO 123 </h1>
+<h1>FORMULARIO 123456 </h1>
  <form action="" method="get">
 Teclee su nombre:&nbsp;
 <input type="text" name="nombreUsuario" id="nombreUsuario"
